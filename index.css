@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.icons {
+    color: white;
+    background-color: blue;
+    font-size: 15px;
+    padding: 8px;
+    border-radius: 28px;
+}
+
+.dots {
+    color: blue;
+    font-size: 20px;
+    margin-top: 8px;
+}
+
+.main-heading {
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+    font-family: 'Roboto';
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.demo-heading {
+    font-weight: 700;
+}
+
+.task-headings {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    padding: 5px;
+}
+
+.task-description {
+    padding: 22px;
+    font-weight: 700;
+}
+
+.task-container {
+    background-color: white;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+
+.angle-down {
+    font-size: 20px;
+    padding-right: 15px;
+}
+
+.thread-a {
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+}
+
+.sub-thread {
+    background-color: lightgrey;
+    border-radius: 14px;
+}
+
+.input-text {
+    border-radius: 14px;
+    width: 100%;
+}
+
+.categroy-con {
+    border-radius: 14px;
+}
+
+.thread-btn {
+    background-color: blue;
+    color: white;
+    border-width: 0px;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.note {
+    color: blue;
+}
+
+.save-icon {
+    font-size: 30px;
+    text-align: right;
+}
+
+.task-3 {
+    border-radius: 14px;
+    width: 100%;
+    border-width: 0px;
+}
+
+.task7-introduction {
+    background-color: #E6E6E3;
+}
+
+.task7-container {
+    background-color: #E6E6E3;
+    border-radius: 14px;
+}
